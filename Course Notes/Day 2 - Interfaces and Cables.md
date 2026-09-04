@@ -1,4 +1,3 @@
-
 ### 1. 📝 Comprehensive Notes
 
 **Data Measurement and Speeds**
@@ -29,7 +28,7 @@
 * **Pros of Fiber**: Supports much longer distances, complete immunity to EMI, and no signal leakage (better security).
 * **Cons of Fiber**: More expensive than UTP.
 * **Single-mode Fiber (SMF)**: Narrow core, light enters at a single angle (mode) via a laser. Supports massive distances (up to 30km+). Very expensive.
-* **Multimode Fiber (MMF)**: Wider core, light enters at multiple angles (modes) via an LED. Cheaper, but limited to shorter distances (up to 550m).
+* **Multimode Fiber (MMF)**: Wider core, light enters at multiple angles (modes) via a LED. Cheaper, but limited to shorter distances (up to 550m).
 
 *(Note: As this video focused on physical hardware and concepts, no Cisco IOS CLI commands were introduced yet.)*
 
